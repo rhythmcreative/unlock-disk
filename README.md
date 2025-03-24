@@ -156,19 +156,19 @@ The script supports various command-line arguments for direct operations:
 <div align="center">
   <!-- Main Menu Section -->
   <h3><i>Main Menu</i></h3>
-  <img src="https://github.com/user-attachments/assets/5d9fe90d-67fd-431f-b3fc-3912cb6d4c93" alt="Main Menu Image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5d9fe90d-67fd-431f-b3fc-3912cb6d4c93" alt="Main Menu Image" width="600"/>
 
   <br><br>
 
   <!-- Device Listing Section -->
   <h3><i>Device Listing</i></h3>
-  <img src="https://github.com/user-attachments/assets/96f5ff5d-291f-4f9b-9cc1-ad31790fcbbe" alt="Device Listing Image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/96f5ff5d-291f-4f9b-9cc1-ad31790fcbbe" alt="Device Listing Image" width="600"/>
 
   <br><br>
 
   <!-- Unlock Operation Section -->
   <h3><i>Unlock Operation</i></h3>
-  <img src="https://github.com/user-attachments/assets/dc4712a9-c666-47b6-a394-d476126eb3f1" alt="Unlock Operation Image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dc4712a9-c666-47b6-a394-d476126eb3f1" alt="Unlock Operation Image" width="600"/>
 </div>
 
 
@@ -178,8 +178,8 @@ The script supports various command-line arguments for direct operations:
 
 If you encounter any issues or have questions about LUKS Drive Manager, please:
 
-1. Check the [documentation](https://github.com/username/luks-drive-manager/wiki)
-2. Look through existing [issues](https://github.com/username/luks-drive-manager/issues)
+1. Check the [documentation](https://github.com/username/unlock-disk/wiki)
+2. Look through existing [issues](https://github.com/username/unlock-disk/issues)
 3. Create a new issue with a detailed description and steps to reproduce
 
 
