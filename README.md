@@ -153,19 +153,24 @@ The script supports various command-line arguments for direct operations:
 ---
 
 ## 📸 Screenshots
-
 <div align="center">
-  <p><i>Main Menu</i></p>
-  ![image](https://github.com/user-attachments/assets/5d9fe90d-67fd-431f-b3fc-3912cb6d4c93)
+  <!-- Main Menu Section -->
+  <h3><i>Main Menu</i></h3>
+  <img src="https://github.com/user-attachments/assets/5d9fe90d-67fd-431f-b3fc-3912cb6d4c93" alt="Main Menu Image" width="300"/>
 
-  
-  <p><i>Device Listing</i></p>
- ![image](https://github.com/user-attachments/assets/96f5ff5d-291f-4f9b-9cc1-ad31790fcbbe)
+  <br><br>
 
-  <p><i>Unlock Operation</i></p>
-  ![image](https://github.com/user-attachments/assets/dc4712a9-c666-47b6-a394-d476126eb3f1)
+  <!-- Device Listing Section -->
+  <h3><i>Device Listing</i></h3>
+  <img src="https://github.com/user-attachments/assets/96f5ff5d-291f-4f9b-9cc1-ad31790fcbbe" alt="Device Listing Image" width="300"/>
 
+  <br><br>
+
+  <!-- Unlock Operation Section -->
+  <h3><i>Unlock Operation</i></h3>
+  <img src="https://github.com/user-attachments/assets/dc4712a9-c666-47b6-a394-d476126eb3f1" alt="Unlock Operation Image" width="300"/>
 </div>
+
 
 ---
 
@@ -195,11 +200,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made by <a href="https://github.com/rhythmcreative">/a>rhythmcreative</p>
+  <p>Made by <a href="https://github.com/rhythmcreative"></a>rhythmcreative</p>
   <p>
     <a href="https://www.tiktok.com/@rhythmcreative">Tiktok</a> •
     <a href="https://www.youtube.com/@rhythmcreative4k">Youtube</a>
   </p>
   
-  <p>© 2025 LUKS Drive Manager</p>
+  <p> © 2025 LUKS Drive Manager</p>
 </div>
