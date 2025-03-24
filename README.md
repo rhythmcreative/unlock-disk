@@ -156,13 +156,15 @@ The script supports various command-line arguments for direct operations:
 
 <div align="center">
   <p><i>Main Menu</i></p>
-  <img src="path/to/screenshot1.png" alt="Main Menu" width="600"/>
+  ![image](https://github.com/user-attachments/assets/5d9fe90d-67fd-431f-b3fc-3912cb6d4c93)
+
   
   <p><i>Device Listing</i></p>
-  <img src="path/to/screenshot2.png" alt="Device Listing" width="600"/>
-  
+ ![image](https://github.com/user-attachments/assets/96f5ff5d-291f-4f9b-9cc1-ad31790fcbbe)
+
   <p><i>Unlock Operation</i></p>
-  <img src="path/to/screenshot3.png" alt="Unlock Operation" width="600"/>
+  ![image](https://github.com/user-attachments/assets/dc4712a9-c666-47b6-a394-d476126eb3f1)
+
 </div>
 
 ---
@@ -175,22 +177,6 @@ If you encounter any issues or have questions about LUKS Drive Manager, please:
 2. Look through existing [issues](https://github.com/username/luks-drive-manager/issues)
 3. Create a new issue with a detailed description and steps to reproduce
 
-For urgent matters, contact the maintainer at: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-## 🔐 Security
-
-### Reporting Security Issues
-
-If you discover a security vulnerability, please send an email to [security@example.com](mailto:security@example.com) instead of opening a public issue. We take security concerns very seriously and will address them promptly.
-
-### Security Best Practices
-
-- Always verify device identifiers before unlocking
-- Back up LUKS headers to a secure location
-- Use strong passwords for your encrypted volumes
-- Keep the script updated to the latest version
 
 ---
 
