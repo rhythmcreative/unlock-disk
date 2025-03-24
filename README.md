@@ -98,25 +98,20 @@ You can install LUKS Drive Manager by following these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/luks-drive-manager.git
+git clone https://github.com/rhythmcreative/unlock-disk.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd luks-drive-manager
+cd unlock-disk
+sudo ./install.sh
 ```
 
-3. Make the script executable:
+3. Now u can execute by doing:
 
 ```bash
-chmod +x unlock_drive.sh
-```
-
-4. (Optional) Create a symbolic link for system-wide access:
-
-```bash
-sudo ln -s "$(pwd)/unlock_drive.sh" /usr/local/bin/luks-manager
+sudo unlock-disk
 ```
 
 ---
