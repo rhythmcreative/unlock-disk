@@ -108,12 +108,6 @@ cd unlock-disk
 sudo ./install.sh
 ```
 
-3. Now u can execute by doing:
-
-```bash
-sudo unlock-disk
-```
-
 ---
 
 ## 🚀 Usage
@@ -125,7 +119,7 @@ LUKS Drive Manager can be used in both interactive and command-line modes.
 1. Launch the script without arguments:
 
 ```bash
-./unlock_drive.sh
+sudo ./unlock_drive.sh
 ```
 
 2. Navigate through the interactive menu to:
@@ -204,13 +198,7 @@ If you discover a security vulnerability, please send an email to [security@exam
 
 Contributions are welcome! Here's how you can contribute:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please make sure to update tests and documentation as appropriate.
+Please make sure to update tests and documentation as appropriate, Thanks.
 
 ---
 
@@ -221,12 +209,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/username">Your Name</a></p>
+  <p>Made by <a href="https://github.com/rhythmcreative">/a>rhythmcreative</p>
   <p>
-    <a href="https://github.com/username">GitHub</a> •
-    <a href="https://twitter.com/username">Twitter</a> •
-    <a href="https://linkedin.com/in/username">LinkedIn</a>
+    <a href="https://www.tiktok.com/@rhythmcreative">Tiktok</a> •
+    <a href="https://www.youtube.com/@rhythmcreative4k">Youtube</a>
   </p>
   
-  <p>© 2023 LUKS Drive Manager</p>
+  <p>© 2025 LUKS Drive Manager</p>
 </div>
