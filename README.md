@@ -134,19 +134,19 @@ The script supports various command-line arguments for direct operations:
 
 ```bash
 # List all LUKS devices
-./unlock_drive.sh --list
+unlock-disk list
 
 # Unlock a specific device
-./unlock_drive.sh --unlock /dev/sdX
+unlock-disk unlock /dev/sdX
 
 # Lock a specific device
-./unlock_drive.sh --lock /dev/sdX
+unlock-disk lock /dev/sdX
 
 # Backup LUKS header
-./unlock_drive.sh --backup /dev/sdX /path/to/backup.img
+unlock-disk backup /dev/sdX /path/to/backup.img
 
 # Display help
-./unlock_drive.sh --help
+unlock-disk help
 ```
 
 ---
