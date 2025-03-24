@@ -34,7 +34,6 @@
   - [Command-Line Mode](#command-line-mode)
 - [Screenshots](#-screenshots)
 - [Support](#-support)
-- [Security](#-security)
 - [Contributing](#-contributing)
 - [License](#-license)
 
