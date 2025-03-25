@@ -104,6 +104,7 @@ git clone https://github.com/rhythmcreative/unlock-disk.git
 
 ```bash
 cd unlock-disk
+chmod +x install.sh
 sudo ./install.sh
 ```
 
